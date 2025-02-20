@@ -41,16 +41,16 @@
           <mxGeometry x="503" y="107" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="nqjss1Vv1SrnvWlsDy4Y-12" value="学科范式创新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2567" y="500" width="156" height="48" as="geometry" />
+          <mxGeometry x="988" y="110" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="nqjss1Vv1SrnvWlsDy4Y-13" value="社会网络分析&#xa;翻译规范演化图谱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2219" y="607" width="250" height="66" as="geometry" />
+          <mxGeometry x="640" y="217" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="nqjss1Vv1SrnvWlsDy4Y-14" value="机器学习预测模型&#xa;数据驱动翻译教学" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2519" y="607" width="250" height="66" as="geometry" />
+          <mxGeometry x="940" y="217" width="250" height="66" as="geometry" />
         </mxCell>
         <mxCell id="nqjss1Vv1SrnvWlsDy4Y-15" value="三维校验体系&#xa;手稿-定本-副文本&#xa;数字人文新范式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2820" y="607" width="246" height="66" as="geometry" />
+          <mxGeometry x="1241" y="217" width="246" height="66" as="geometry" />
         </mxCell>
         <mxCell id="nqjss1Vv1SrnvWlsDy4Y-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqjss1Vv1SrnvWlsDy4Y-0" target="nqjss1Vv1SrnvWlsDy4Y-1">
           <mxGeometry relative="1" as="geometry">
@@ -116,7 +116,7 @@
         <mxCell id="nqjss1Vv1SrnvWlsDy4Y-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqjss1Vv1SrnvWlsDy4Y-12" target="nqjss1Vv1SrnvWlsDy4Y-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2344" y="573" />
+              <mxPoint x="765" y="183" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -128,7 +128,7 @@
         <mxCell id="nqjss1Vv1SrnvWlsDy4Y-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nqjss1Vv1SrnvWlsDy4Y-12" target="nqjss1Vv1SrnvWlsDy4Y-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2943" y="573" />
+              <mxPoint x="1364" y="183" />
             </Array>
           </mxGeometry>
         </mxCell>
